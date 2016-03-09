@@ -1,4 +1,4 @@
-#notes {
+/*#notes {
 	.note {
 		background: $dark_gray;
 		width: 30%;
@@ -48,4 +48,4 @@
 			background: transparent;
 		}
 	}
-}
+}*/
